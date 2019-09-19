@@ -12,8 +12,7 @@ header{
     color: black;
     text-align: center;
     font-family: fantasy;
-    font-size: 70px;   
-   
+    font-size: 70px;    
 }
 
 #intro{
@@ -36,6 +35,7 @@ div.align0{
     text-align: center;
     background-color:#FEFAEC;
 }
+
 div.align{
     padding: 5%;
     text-align: center;
@@ -121,23 +121,19 @@ ol {
     border-right: none;
   }
 
-
 article {
     font-family: Arial;
     text-align: justify;
 }
 
-
 div{
     background-color: rgb(17, 177, 11);
 }
 
-
-
-
 #map{
     text-align: center;  
 }
+
 footer{
     background-color:#445c3c;
     text-align: center;  
