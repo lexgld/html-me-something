@@ -1,0 +1,148 @@
+html{
+    margin: 10px;
+}
+
+header{
+    background-color:#A9EEE6;
+    text-align: center;
+    padding: 1%
+}
+
+#introductory-title{
+    color: black;
+    text-align: center;
+    font-family: fantasy;
+    font-size: 70px;   
+   
+}
+
+#intro{
+    text-align: left;
+}
+
+#shopping{
+    background-color: aquamarine;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+div.align0{
+    padding: 5%;
+    text-align: center;
+    background-color:#FEFAEC;
+}
+div.align{
+    padding: 5%;
+    text-align: center;
+    background-color: #445C3C;
+    
+}
+
+div.align2{
+    padding: 5%;
+    text-align: center;
+    background-color:#FDA77F; 
+}
+
+div.align3{
+    padding: 5%;
+    text-align: center;
+    background-color: #B6A19E; 
+}
+div.align4{
+    padding: 5%;
+    background-color: #578CA9;
+    color: white;
+}
+
+div.align5{
+    padding: 5%;
+    background-color: #625772;
+    color: white;
+}
+
+p{
+    text-align: justify;
+    font-family: Geneva;
+}
+
+.textstyle{
+    font-family: Geneva;
+    text-align: left;
+}
+
+li{
+    font-family: Geneva;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:white;
+  }
+
+ol {
+    list-style-type: circle;
+    
+}
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 10px 72px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #F38181;
+  }
+ 
+  .active {
+    background-color:rgb(17, 177, 11);
+  }
+  
+  li {
+    border-right: 1px solid #bbb;
+  }
+
+  li:last-child {
+    border-right: none;
+  }
+
+
+article {
+    font-family: Arial;
+    text-align: justify;
+}
+
+
+div{
+    background-color: rgb(17, 177, 11);
+}
+
+
+
+
+#map{
+    text-align: center;  
+}
+footer{
+    background-color:#445c3c;
+    text-align: center;  
+    padding: 10px;
+    font-family: fantasy;
+    color: white;
+}
+
